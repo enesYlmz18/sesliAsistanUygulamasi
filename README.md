@@ -50,9 +50,9 @@ Ayrıca ses tanıma için sisteminizde mikrofon bağlı olmalıdır.
 🚀 Nasıl Kullanılır?
 Python ortamınızı açın.
 
-voicaAssistants.py dosyasını çalıştırın:
+sesliAsistan.py dosyasını çalıştırın:
 
-python voicaAssistants.py
+python sesliAsistan.py
 Asistan sizi sesli olarak karşılayacak ve komutlarınızı bekleyecek.
 
 Örnek komutlar:
